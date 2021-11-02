@@ -33,12 +33,12 @@ Confusion Matrix
 <img src="./plots/cm.png" width="70%"/>|
 
 ## Screenshots
-<p float="left">
-  <img src="./images/1.png"  width="70%"/>
-  <img src="./images/2.png"  width="70%"/>
-  <img src="./images/3.png"  width="70%"/>
-  <img src="./images/4.png"  width="70%"/>
-</p>
+
+<img src="./images/1.png"/>
+<img src="./images/2.png"/>
+<img src="./images/3.png"/>
+<img src="./images/4.png"/>
+
 
 ## License
 MIT
