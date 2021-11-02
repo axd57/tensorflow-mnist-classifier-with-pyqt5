@@ -8,3 +8,7 @@
 - OpenCV
 - Matplotlib
 - seaborn
+## Quick Installation
+```
+pip install -r requirements.txt
+```
