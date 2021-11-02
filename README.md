@@ -23,7 +23,13 @@ python mnist_classifier_ui.py
 - User friendly GUI.
 - Digit finding and cuting.
 
-## Model Plots
+## Model 
+
+### Layers
+<img src="./images/model_layers.png"/>
+
+
+### Plots
 Accuracy                   |  Loss                    
 :-------------------------:|:-------------------------:
 <img src="./plots/acc.png"/>  | <img src="./plots/loss.png"/>
