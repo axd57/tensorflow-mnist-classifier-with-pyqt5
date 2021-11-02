@@ -16,7 +16,7 @@ Accuracy                   |  Loss
 
 Confusion matrix
 |:----------------------------:
-<img src="./plots/cm.png" width="60%"/>|
+<img src="./plots/cm.png" width="70%"/>|
 
 
 
