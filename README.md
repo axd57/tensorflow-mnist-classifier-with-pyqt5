@@ -34,10 +34,10 @@ Confusion Matrix
 
 ## Screenshots
 <p float="left">
-  <img src="./images/1.png"  width="45%"/>
-  <img src="./images/2.png"  width="45%"/>
-  <img src="./images/3.png"  width="45%"/>
-  <img src="./images/4.png"  width="45%"/>
+  <img src="./images/1.png"  width="70%"/>
+  <img src="./images/2.png"  width="70%"/>
+  <img src="./images/3.png"  width="70%"/>
+  <img src="./images/4.png"  width="70%"/>
 </p>
 
 ## License
