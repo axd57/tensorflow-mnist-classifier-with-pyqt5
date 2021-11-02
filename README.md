@@ -9,23 +9,6 @@
 - Matplotlib
 - seaborn
 
-## Model Plots
-Accuracy                   |  Loss                    
-:-------------------------:|:-------------------------:
-<img src="./plots/acc.png"/>  | <img src="./plots/loss.png"/>
-
-Confusion matrix
-|:----------------------------:
-<img src="./plots/cm.png" width="70%"/>|
-
-
-
-
-
-## Screenshots
-
-
-
 ## Quick Installation
 ```
 pip install -r requirements.txt
@@ -34,3 +17,33 @@ pip install -r requirements.txt
 ```
 python mnist_classifier_ui.py
 ```
+
+## Features
+- Testing from model test set or external image.
+- User friendly GUI.
+- Digit finding and cuting.
+
+## Model Plots
+Accuracy                   |  Loss                    
+:-------------------------:|:-------------------------:
+<img src="./plots/acc.png"/>  | <img src="./plots/loss.png"/>
+
+Confusion Matrix
+|:----------------------------:
+<img src="./plots/cm.png" width="70%"/>|
+
+## Screenshots
+<p align="center">
+  <img src="./images/1.png" width="85%"/>
+  <img src="./images/2.png" width="85%"/>
+  <img src="./images/3.png" width="85%"/>
+  <img src="./images/4.png" width="85%"/> 
+</p>
+
+## License
+MIT
+
+
+
+
+
