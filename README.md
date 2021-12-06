@@ -1,4 +1,4 @@
-# Tensorflow MNIST Classification With PyQt5
+# Tensorflow MNIST Classification with PyQt5
 <img src="./images/banner1.png"/>
 
 ## Used Tools
