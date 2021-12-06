@@ -2,7 +2,7 @@
 <img src="./images/banner1.png"/>
 
 ## Used Tools
-- Tensorlfow
+- TensorFlow
 - PyQt5
 - NumPy
 - OpenCV
