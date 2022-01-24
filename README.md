@@ -22,6 +22,7 @@ python mnist_classifier_ui.py
 - Testing from model test set or external image.
 - User friendly GUI.
 - Digit finding and cuting.
+> ⚠️ For more details and explanations : [Report](./report.pdf)
 
 ## Model 
 
